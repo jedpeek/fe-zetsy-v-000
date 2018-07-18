@@ -55,7 +55,7 @@ header a {
 }
 
 #press img:hover {
-  border: 5px #fff solid;
+  border: 5px #000 solid;
   padding: 1px;
 }
 
