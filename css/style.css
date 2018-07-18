@@ -40,6 +40,6 @@ header a {
 }
 
 footer {
-  display:block;
+  display:inline;
   float: left;
 }
