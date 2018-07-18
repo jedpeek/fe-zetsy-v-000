@@ -27,7 +27,7 @@ h1 {
     font-family: 'Baskerville', serif;
     border-bottom: 1px solid #ccc;
 }
-header a:hover {
+h1 a:hover {
   font-color: rgb(111,127,122)
 }
 
