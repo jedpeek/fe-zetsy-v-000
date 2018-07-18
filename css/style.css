@@ -54,6 +54,11 @@ header a {
     padding: 1px;
 }
 
+#press img:hover {
+  border: 5px #fff solid;
+  padding: 1px;
+}
+
 #press {
   margin-bottom: 20px;
 }
