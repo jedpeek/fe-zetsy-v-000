@@ -29,7 +29,7 @@ h1 {
 }
 
 h2 {
-
+order-bottom: 1px solid #ccc;
 }
 
 header a {
