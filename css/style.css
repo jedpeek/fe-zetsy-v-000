@@ -28,7 +28,7 @@ h1 {
     border-bottom: 1px solid #ccc;
 }
 header h1 a:hover {
-  font-color: rgb(111,127,122)
+  color: rgb(111,127,122)
 }
 
 h2 {
