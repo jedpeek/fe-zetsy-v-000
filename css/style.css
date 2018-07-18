@@ -33,3 +33,8 @@ header a {
   color: rgb(152,173,166);
   text-decoration: none;
 }
+
+#press a {
+  display: inline;
+  border: 2px solid black;
+}
