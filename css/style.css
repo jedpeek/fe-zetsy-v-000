@@ -40,5 +40,5 @@ header a {
 }
 
 footer p{
-  float: right;
+  display: right;
 }
