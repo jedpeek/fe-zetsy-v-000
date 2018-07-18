@@ -40,5 +40,6 @@ header a {
 }
 
 footer {
+  display:block;
   float: left;
 }
