@@ -39,7 +39,7 @@ header a {
     padding: 1px;
 }
 
-footer {
+footer p{
   display:inline;
   float: left;
 }
