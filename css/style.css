@@ -29,7 +29,8 @@ h1 {
 }
 
 h2 {
-order-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+    color: rgb(152,173,166);
 }
 
 header a {
