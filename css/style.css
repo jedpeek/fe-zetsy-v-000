@@ -48,6 +48,11 @@ header a {
   border: 5px rgb(152,173,166) solid;
   padding: 1px;
 }
+}
+#featured a {
+    color: #1783bb;
+    text-decoration: none;
+}
 
 #press img {
     border: 5px #ccc solid;
